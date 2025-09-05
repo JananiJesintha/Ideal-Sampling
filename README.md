@@ -175,13 +175,16 @@ plt.show()
 ```
 # Output Waveform
 
-Ideal
+#Ideal
+
 <img width="579" height="760" alt="Screenshot 2025-09-03 150845" src="https://github.com/user-attachments/assets/1cfe2600-ac3e-49ee-b74a-f88808ac689f" />
 
-Natural
+#Natural
+
 <img width="884" height="630" alt="Screenshot 2025-09-03 150915" src="https://github.com/user-attachments/assets/47b2957f-2a13-4768-8c09-f5712295b7e2" />
 
-Flat-Top
+#Flat-Top
+
 <img width="915" height="633" alt="Screenshot 2025-09-03 150928" src="https://github.com/user-attachments/assets/a33d9634-4a4b-4619-96b2-fce879ca7eee" />
 
 # Results
